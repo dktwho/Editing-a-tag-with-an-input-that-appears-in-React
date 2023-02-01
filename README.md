@@ -1,3 +1,8 @@
+# Содержание
+
+1. Есть абзац по клику на который появляется инпут, вносим изменения и при onBlur сохраняем значения из инпута в параграф.
+2. Есть абзац, кнопка edit, по клику на которую появляется инпут вносим изменения и по клику на кнопку save сохраняем изменения из инпута в параграф.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
